@@ -1,7 +1,7 @@
 const playlist = {
-  "Bill" : songTitle
+  "Billy Joel" : "New York State of Mind"
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  return Object.assign(playlist, artistName, songTitle);
+
 }
