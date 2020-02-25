@@ -1,5 +1,5 @@
 const playlist = {
-  "Bob": "All I want"
+  "Slowdive"
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
