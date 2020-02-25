@@ -1,0 +1,4 @@
+const playlist = {
+  artist: "",
+  song: ""
+};
